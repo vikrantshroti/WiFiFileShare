@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class CommonMethods {
 
-    public static String Tag = "WiFiShareFilesExampleAndroid";
+    public static String Tag = "WiFiShareFile";
 
     public static String getPath(Uri uri, Context context) {
         if (uri == null) {
